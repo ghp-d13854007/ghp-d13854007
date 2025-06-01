@@ -17,4 +17,3 @@ There were **15747** dengue cases in 2014.
 3. The total cases will show up in the console.
 
 # Note About the Data  
-I didn’t upload the actual data file (`dengue.csv`) to GitHub. It’s ignored by `.gitignore` so it doesn’t get tracked. Make sure to keep your CSV in the folder when running the script.
