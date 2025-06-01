@@ -12,9 +12,9 @@ I counted how many dengue cases were reported in 2014 based on weekly data from 
 There were **15747** dengue cases in 2014.
 
 # How To Run It  
-1. Put the `dengue.csv` file in the same folder as the R script (`DNGRM.R`).  
-2. Open `DNGRM.R` in RStudio and run it.  
-3. The total cases will show up in the console.
+1. In a single folder, I put the `dengue.csv` file and the R script (`DNGRM.R`).  
+2. Then, opened `DNGRM.R` in RStudio and run it.  
+3. I observed the case numbers  (mentioned above) in the console. 
 
 # Note About the Data  
 I didn’t upload the actual data file (`dengue.csv`) to GitHub. 
